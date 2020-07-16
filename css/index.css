@@ -1,0 +1,16 @@
+#site-nav{
+
+}
+#site-content{
+    height: 100%;
+}
+.header{
+    background-color: #f2f2f2;
+}
+
+#welcome{
+    width: 300px;
+}
+#welcome-menu li,#welcome-menu{
+    float: left;
+}
